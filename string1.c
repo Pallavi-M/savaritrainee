@@ -3,7 +3,7 @@
 #include<string.h>
 int main(int argc,char*argv[])
 {
-char a[10]="pallavi";
+char a[10]="pallavi savari";
  int length;
 if (argc!=2)
 {
